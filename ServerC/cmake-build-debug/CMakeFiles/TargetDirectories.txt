@@ -1,0 +1,3 @@
+/Users/strCarne/Documents/Projects/C++/Networking/ChatC/ServerC/cmake-build-debug/CMakeFiles/ServerC.dir
+/Users/strCarne/Documents/Projects/C++/Networking/ChatC/ServerC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/strCarne/Documents/Projects/C++/Networking/ChatC/ServerC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
